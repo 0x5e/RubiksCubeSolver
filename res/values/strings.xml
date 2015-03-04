@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rubik\'s Cube Solver</string>
+    <string name="send">发送</string>
+    <string name="Capture">拍照</string>
+    <string name="BT">蓝牙</string>
+    <string name="BTdevice">蓝牙设备</string>
+
+</resources>
